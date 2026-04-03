@@ -1,8 +1,10 @@
 {
-  "pages": [
+  "id": "mainMenu",
+  "title": "Главное меню",
+  "items": [
     {
-      "id": "mainMenu",
       "title": "Тестовый плейлист",
+      "type": "menu",
       "items": [
         {
           "title": "Big Buck Bunny",

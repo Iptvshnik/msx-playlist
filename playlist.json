@@ -1,6 +1,7 @@
 {
   "pages": [
     {
+      "id": "mainMenu",
       "title": "Тестовый плейлист",
       "items": [
         {

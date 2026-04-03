@@ -2,28 +2,24 @@
 {
   "pages": [
     {
-      "title": "Мой плейлист",
+      "title": "Тестовый плейлист",
       "items": [
         {
-          "title": "НТВ",
+          "title": "Big Buck Bunny",
           "type": "video",
-          "stream": "https://example.com/ntv/stream.m3u8",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/NTV_logo.png"
+          "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
         },
         {
-          "title": "Первый канал",
+          "title": "Sintel",
           "type": "video",
-          "stream": "https://example.com/1tv/stream.m3u8",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Channel_One_Russia_logo.png"
+          "stream": "https://test-streams.mux.dev/test/sintel.m3u8"
         },
         {
-          "title": "Россия 1",
+          "title": "Tears of Steel",
           "type": "video",
-          "stream": "https://example.com/russia1/stream.m3u8",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Russia-1_logo.png"
+          "stream": "https://test-streams.mux.dev/tears-of-steel/playlist.m3u8"
         }
       ]
     }
   ]
 }
-

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Первый канал", Первый канал
+https://example.com/1tv/stream.m3u8
+
+#EXTINF:-1 tvg-id="Rossiya24.ru" tvg-name="Россия 24", Россия 24
+https://example.com/russia24/stream.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-name="НТВ", НТВ
+https://example.com/ntv/stream.m3u8

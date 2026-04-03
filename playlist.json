@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "title": "Мой плейлист",
+      "items": [
+        {
+          "title": "НТВ",
+          "type": "video",
+          "stream": "https://example.com/ntv/stream.m3u8"
+        },
+        {
+          "title": "Первый канал",
+          "type": "video",
+          "stream": "https://example.com/1tv/stream.m3u8"
+        }
+      ]
+    }
+  ]
+}

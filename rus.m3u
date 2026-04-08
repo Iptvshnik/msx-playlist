@@ -1,12 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Первый канал", Первый канал
-https://example.com/1tv/stream.m3u8
+#EXTINF:-1 tvg-id="Friday.ru@SD",Пятница! (576p)
+https://vod.tuva.ru/friday/index.m3u8
 
-#EXTINF:-1 tvg-id="Rossiya24.ru" tvg-name="Россия 24", Россия 24
-https://example.com/russia24/stream.m3u8
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru@SD",Твое ТВ Юмор (1080p)
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.ru" tvg-name="НТВ", НТВ
-https://example.com/ntv/stream.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru@SD",Cinema
+http://catchup.videoline.ru/cinema/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Multimania.ru@SD",Мультимания ТВ (576p)
 http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
+
+#EXTINF:-1 tvg-id="DanceHits80.ru@SD",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+
+#EXTINF:-1 tvg-id="DTRMusic1.ru@HD",DTR Music 1 (720p)
+https://kino-stream.online/hls/DTRMUSIC1.m3u8
+
+#EXTINF:-1 tvg-id="Kino24.ru@SD",Kino 24 (720p)
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8

@@ -7,3 +7,6 @@ https://example.com/russia24/stream.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="НТВ", НТВ
 https://example.com/ntv/stream.m3u8
+
+#EXTINF:-1 tvg-id="Multimania.ru@SD",Мультимания ТВ (576p)
+http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
